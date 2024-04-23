@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621289503 source:c:\users\gaston\desktop\arqui\tp\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

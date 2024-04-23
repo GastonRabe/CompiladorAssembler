@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619538160 source:c:\users\gaston\desktop\arqui\tp\mvx\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+	<string.h>
+
+1619133727 c:\users\gaston\desktop\arqui\tp\mvx\declaraciones.h
+
